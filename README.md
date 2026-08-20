@@ -83,12 +83,8 @@ I am a **Computer Science & Engineering (CSE) Undergraduate** and **Frontend Dev
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naomi002&show_icons=true&theme=tokyonight&hide_border=true" alt="Naomi002's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naomi002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Naomi002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naomi002&theme=tokyonight" alt="Naomi002's GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naomi002&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 <br />
