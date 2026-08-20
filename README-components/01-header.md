@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Nawrose Naomi</h1>
+  <h1 align="center">Nabila Nawrose Naomi</h1>
 </p>
 
 <p align="center">
