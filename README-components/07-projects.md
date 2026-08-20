@@ -1,10 +1,29 @@
 ## 💻 Featured Projects
 
-| Project | Description | Tech Stack | Repository & Demo |
-| :--- | :--- | :--- | :--- |
-| **🛍️ ZABIN'S Boutique** | Modern e-commerce web platform for fashion & apparel featuring interactive product showcase and cart management. | `React` `JavaScript` `CSS` | [Repository](https://github.com/Naomi002/zabins-boutique) • [Live Demo](https://example.com) |
-| **🦷 SmileCare Dental Clinic** | Digital dental clinic & patient management portal with seamless appointment scheduling interface. | `React` `Vite` `Firebase` | [Repository](https://github.com/Naomi002/smilecare-dental) • [Live Demo](https://example.com) |
-| **🌱 LifeQuest** | Gamified personal productivity & habit tracking web application designed to encourage positive daily routines. | `JavaScript` `HTML5` `CSS3` | [Repository](https://github.com/Naomi002/phantom_productivity) • [Live Demo](https://example.com) |
-| **🩸 Blood Connect** | Emergency blood donation platform connecting donors directly with recipients in real-time. | `Android` `Java` `Firebase` | [Repository](https://github.com/Naomi002/Blood_Connect) • [Live Demo](https://example.com) |
+### 🛍️ [ZABIN'S Boutique](https://github.com/Naomi002/zabins-boutique)
+> Modern React + Vite e-commerce website with Firebase, Firestore, product management, reviews, and admin functionality.
+- **Tech Stack:** `React` • `Vite` • `Firebase` • `Firestore` • `JavaScript` • `CSS`
+- 🔗 **Repository:** [Naomi002/zabins-boutique](https://github.com/Naomi002/zabins-boutique)
+
+---
+
+### 🦷 [SmileCare Dental Clinic](https://github.com/Naomi002/smilecare-dental)
+> Modern responsive dental clinic website built with React and Vite.
+- **Tech Stack:** `React` • `Vite` • `JavaScript` • `CSS`
+- 🔗 **Repository:** [Naomi002/smilecare-dental](https://github.com/Naomi002/smilecare-dental)
+
+---
+
+### 🌱 [LifeQuest](https://github.com/Naomi002)
+> Gamified task and habit management application.
+- **Tech Stack:** `JavaScript` • `HTML5` • `CSS3`
+- 🔗 **Repository:** [Naomi002 Profile](https://github.com/Naomi002)
+
+---
+
+### 🩸 [Blood Connect](https://github.com/Naomi002/Blood_Connect)
+> Android application built with Java, Android Studio, and Firebase for connecting blood donors and recipients.
+- **Tech Stack:** `Android` • `Java` • `Firebase`
+- 🔗 **Repository:** [Naomi002/Blood_Connect](https://github.com/Naomi002/Blood_Connect)
 
 <br />
