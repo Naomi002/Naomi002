@@ -83,8 +83,11 @@ I am a **Computer Science & Engineering (CSE) Undergraduate** and **Frontend Dev
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naomi002&theme=tokyonight" alt="Naomi002's GitHub Stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naomi002&theme=tokyonight" alt="Top Languages" height="165" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naomi002&theme=tokyonight" alt="Naomi002's GitHub Stats" height="165" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naomi002&theme=tokyonight" alt="Top Languages" height="165" />
+
 </p>
 
 <br />
@@ -94,17 +97,25 @@ I am a **Computer Science & Engineering (CSE) Undergraduate** and **Frontend Dev
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naomi002&theme=tokyo-night&hide_border=true" alt="Naomi002's Contribution Graph" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naomi002&theme=tokyo-night&hide_border=true" alt="Naomi002's Contribution Graph" width="100%" />
+
 </p>
 
 <br />
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naomi002/Naomi002/main/assets/animations/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naomi002/Naomi002/main/assets/animations/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Naomi002/Naomi002/main/assets/animations/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naomi002/Naomi002/main/assets/animations/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naomi002/Naomi002/main/assets/animations/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Naomi002/Naomi002/main/assets/animations/github-contribution-grid-snake-dark.svg" width="100%">
+
+</picture>
+
 </p>
 
 <br />
